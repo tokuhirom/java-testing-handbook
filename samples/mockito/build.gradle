@@ -7,5 +7,5 @@ dependencies {
     testImplementation 'org.mockito:mockito-junit-jupiter:3.5.9'
     testImplementation 'org.assertj:assertj-core'
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.6.2")
-    testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.6.2")
+    testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.7.1")
 }

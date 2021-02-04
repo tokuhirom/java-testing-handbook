@@ -3,7 +3,7 @@ apply plugin: 'java'
 dependencies {
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.6.2")
     testImplementation 'com.google.guava:guava'
-    testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.6.2")
+    testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.7.1")
 }
 
 compileJava {
