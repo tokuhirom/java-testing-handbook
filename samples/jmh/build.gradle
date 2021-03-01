@@ -2,5 +2,5 @@ apply plugin: 'java'
 
 dependencies {
   compile 'org.openjdk.jmh:jmh-core:1.27'
-  compile 'org.openjdk.jmh:jmh-generator-annprocess:1.27'
+  compile 'org.openjdk.jmh:jmh-generator-annprocess:1.28'
 }
